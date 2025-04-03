@@ -80,7 +80,7 @@ const Ticket = () => {
               className="absolute text-white text-xl md:text-2xl lg:text-3xl rotate-90"
               style={{
                 top: "59%",
-                left: "77%",
+                left: "78%",
                 transform: "translate(-50%, -50%)",
               }}
             >
