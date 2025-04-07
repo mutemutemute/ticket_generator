@@ -46,14 +46,14 @@ Create a `.env` file with:
 
 PORT = 5000
 
-# Database
+## Database
 DB_HOST = localhost
 DB_PORT = 5432
 DB_NAME = your_DB_name
 DB_USER = your_user_name
 DB_PASS = your_DB_password
 
-# JWT config
+## JWT config
 JWT_SECRET = jwt_secret_password
 JWT_EXPIRES_IN = 90d
 JWT_COOKIE_EXPIRES_IN = 90
