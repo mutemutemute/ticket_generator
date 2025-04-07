@@ -1,21 +1,21 @@
-# 🎟️ Coding Conf 2025 Ticket Generator
+# Coding Conf 2025 Ticket Generator
 
-**Coding Conf 2025 Ticket Generator** — a full-stack web application that allows users to generate personalized tickets for the upcoming Coding Conf event in Austin, TX.
+**Coding Conf 2025 Ticket Generator** — a full-stack web application that allows users to generate personalized tickets.
 
-## ✨ Features
+##  Features
 
-- 🎫 Ticket generation with unique ticket ID
-- 🧾 Email validation & GitHub username input
-- 📦 Persistent backend using PostgreSQL
-- 💅 Design with TailwindCSS
-- 🧪 Input validation using `express-validator`
-- 🔐 Email uniqueness check
-- 🌐 API built with Express.js
+-  Ticket generation with unique ticket ID
+-  Email validation & GitHub username input
+-  Persistent backend using PostgreSQL
+-  Design with TailwindCSS
+-  Input validation using `express-validator`
+-  Email uniqueness check
+-  API built with Express.js
 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend:
 - React
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
